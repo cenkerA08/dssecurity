@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/dssecurity'/static/css/main.dc4e7428.css",
-    "main.js": "/dssecurity'/static/js/main.37585b5c.js",
-    "static/js/919.8c375667.chunk.js": "/dssecurity'/static/js/919.8c375667.chunk.js",
-    "static/media/AdobeStock_172294822-e1574947444547.jpeg": "/dssecurity'/static/media/AdobeStock_172294822-e1574947444547.54603ad8000dd2cc4d34.jpeg",
-    "static/media/1689723545185.jpg": "/dssecurity'/static/media/1689723545185.1a6041e517b142164dde.jpg",
-    "static/media/securityMan5.jpg": "/dssecurity'/static/media/securityMan5.72770d1b7fc718cf8ee7.jpg",
-    "static/media/securityMan2.jpg": "/dssecurity'/static/media/securityMan2.45c23f35590d24bdb0ae.jpg",
-    "static/media/Security-Guard.jpg": "/dssecurity'/static/media/Security-Guard.1cbc1f8d964456e0cf47.jpg",
-    "static/media/hospital-security.jpg": "/dssecurity'/static/media/hospital-security.6a7450276ce3a9e75618.jpg",
-    "static/media/SecurityMan4.jpg": "/dssecurity'/static/media/SecurityMan4.a01cdcdc807c398190be.jpg",
-    "static/media/security-guard-and-dog-800x533.webp": "/dssecurity'/static/media/security-guard-and-dog-800x533.85d04702d3a70fe6189d.webp",
-    "static/media/security-guards-protection.jpg": "/dssecurity'/static/media/security-guards-protection.ea21681fbf2b069a7690.jpg",
-    "static/media/confident-afroamerican-driver-standing-by-600nw-1112129720.webp": "/dssecurity'/static/media/confident-afroamerican-driver-standing-by-600nw-1112129720.428e1aa7b5d5f4793ebc.webp",
-    "static/media/eventSecurity.jpg": "/dssecurity'/static/media/eventSecurity.fba76bb0f4772c70fa39.jpg",
-    "static/media/securityMan3.jpg": "/dssecurity'/static/media/securityMan3.b9e239256ab94d77bd0f.jpg",
-    "index.html": "/dssecurity'/index.html",
-    "main.dc4e7428.css.map": "/dssecurity'/static/css/main.dc4e7428.css.map",
-    "main.37585b5c.js.map": "/dssecurity'/static/js/main.37585b5c.js.map",
-    "919.8c375667.chunk.js.map": "/dssecurity'/static/js/919.8c375667.chunk.js.map"
+    "main.css": "/dssecurity/static/css/main.af9e3ab1.css",
+    "main.js": "/dssecurity/static/js/main.3be3b48a.js",
+    "static/js/919.8c375667.chunk.js": "/dssecurity/static/js/919.8c375667.chunk.js",
+    "static/media/AdobeStock_172294822-e1574947444547.jpeg": "/dssecurity/static/media/AdobeStock_172294822-e1574947444547.54603ad8000dd2cc4d34.jpeg",
+    "static/media/1689723545185.jpg": "/dssecurity/static/media/1689723545185.1a6041e517b142164dde.jpg",
+    "static/media/securityMan5.jpg": "/dssecurity/static/media/securityMan5.72770d1b7fc718cf8ee7.jpg",
+    "static/media/securityMan2.jpg": "/dssecurity/static/media/securityMan2.45c23f35590d24bdb0ae.jpg",
+    "static/media/Security-Guard.jpg": "/dssecurity/static/media/Security-Guard.1cbc1f8d964456e0cf47.jpg",
+    "static/media/hospital-security.jpg": "/dssecurity/static/media/hospital-security.6a7450276ce3a9e75618.jpg",
+    "static/media/SecurityMan4.jpg": "/dssecurity/static/media/SecurityMan4.a01cdcdc807c398190be.jpg",
+    "static/media/security-guard-and-dog-800x533.webp": "/dssecurity/static/media/security-guard-and-dog-800x533.85d04702d3a70fe6189d.webp",
+    "static/media/security-guards-protection.jpg": "/dssecurity/static/media/security-guards-protection.ea21681fbf2b069a7690.jpg",
+    "static/media/confident-afroamerican-driver-standing-by-600nw-1112129720.webp": "/dssecurity/static/media/confident-afroamerican-driver-standing-by-600nw-1112129720.428e1aa7b5d5f4793ebc.webp",
+    "static/media/eventSecurity.jpg": "/dssecurity/static/media/eventSecurity.fba76bb0f4772c70fa39.jpg",
+    "static/media/securityMan3.jpg": "/dssecurity/static/media/securityMan3.b9e239256ab94d77bd0f.jpg",
+    "index.html": "/dssecurity/index.html",
+    "main.af9e3ab1.css.map": "/dssecurity/static/css/main.af9e3ab1.css.map",
+    "main.3be3b48a.js.map": "/dssecurity/static/js/main.3be3b48a.js.map",
+    "919.8c375667.chunk.js.map": "/dssecurity/static/js/919.8c375667.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.dc4e7428.css",
-    "static/js/main.37585b5c.js"
+    "static/css/main.af9e3ab1.css",
+    "static/js/main.3be3b48a.js"
   ]
 }
