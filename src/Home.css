@@ -1,0 +1,122 @@
+/* CSS for home screen */
+
+/* General styles */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.home-container {
+    padding-top: 5%;
+}
+
+/* Hero Section */
+.hero-section {
+    position: relative;
+    height: 60vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    overflow: hidden;
+}
+
+.hero-background {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: url('./Images/securityMan2.jpg') center/cover;
+    filter: brightness(0.9);
+    z-index: -1;
+}
+
+
+.hero-content {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    color: #ffffff;
+    z-index: 1;
+}
+
+.hero-content h1 {
+    font-style: italic;
+    font-size: 2rem;
+    color: #b40000;
+}
+
+/* About Section */
+.about-section {
+    background-color: #2c3e50; /* Changing background color to a modern color */
+    color: #ffffff;
+    padding: 50px 0;
+    text-align: center;
+}
+
+/* Featured Services Section */
+.featured-services-section {
+    background-color: #34495e; /* Changing background color to a modern color */
+    color: #ffffff;
+    padding: 50px 0;
+}
+
+/* Quotation Section */
+.quote-section {
+    background-color: #969696; /* Changing background color to a modern color */
+    color: #ffffff;
+    padding: 50px 0;
+    text-align: center;
+}
+
+/* Quote Content */
+.quote-content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+/* Buttons */
+.button {
+    border: none;
+    border-radius: 5px;
+    padding: 15px 30px;
+    font-size: 1em;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+/* Contact Section */
+.contact-section {
+    /* Styles for contact section */
+    background-color: #34495e; /* Changing background color to match featured services */
+    color: #ffffff;
+    padding: 50px 0;
+    text-align: center;
+}
+
+/* Center all text */
+.section-content,
+.service-info {
+    margin-left: 5px;
+    margin-right: 5px;
+    text-align: center;
+}
+
+/* Responsive styles */
+@media screen and (max-width: 768px) {
+    /* Adjust styles for tablets and phones */
+    .hero-content {
+        width: 80%;
+    }
+}
+
+@media screen and (max-width: 480px) {
+    /* Adjust styles for phones */
+    .hero-content {
+        width: 90%;
+    }
+}
